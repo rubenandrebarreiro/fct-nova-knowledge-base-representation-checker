@@ -18,11 +18,11 @@
 [![keyword of this version no. 1](https://img.shields.io/badge/keyword-knowledge&nbsp;base-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-knowledge-base-representation-checker/)
 [![keyword of this version no. 2](https://img.shields.io/badge/keyword-knowledge&nbsp;representation-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-knowledge-base-representation-checker/)
 [![keyword of this version no. 3](https://img.shields.io/badge/keyword-logic-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-knowledge-base-representation-checker/)
-[![keyword of this version no. 4](https://img.shields.io/badge/keyword-fct&nbsp;-&nbsp;nova-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-knowledge-base-representation-checker/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-fct&nbsp;nova-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-knowledge-base-representation-checker/)
 
 [![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-prolog-red.svg)](https://en.wikipedia.org/wiki/Prolog)
-[![software used no. 1](https://img.shields.io/badge/software-jetbrains&nbsp;swish-gold.svg)](https://swish.swi-prolog.org)
-[![software used no. 2](https://img.shields.io/badge/software-jetbrains&nbsp;swi&nbsp;-&nbsp;prolog-gold.svg)](https://www.swi-prolog.org/)
+[![software used no. 1](https://img.shields.io/badge/software-swish-gold.svg)](https://swish.swi-prolog.org)
+[![software used no. 2](https://img.shields.io/badge/software-swi&nbsp;prolog-gold.svg)](https://www.swi-prolog.org/)
 
 [![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=fct-nova-knowledge-base-representation-checker&style=flat)](https://github.com/rubenandrebarreiro/fct-nova-knowledge-base-representation-checker/stargazers)
 [![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=fct-nova-knowledge-base-representation-checker&style=flat)](https://github.com/rubenandrebarreiro/fct-nova-knowledge-base-representation-checker/fork)
