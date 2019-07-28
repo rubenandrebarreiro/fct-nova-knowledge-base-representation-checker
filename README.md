@@ -36,7 +36,7 @@
 
 ## Description
 
-A project based in **_Computer Vision_**, most precisely in **_Facial Detection and Virtual Reality_**. This project was built using [**_Python_**](https://www.python.org/), [**_OpenCV (Open Source Computer Vision Library)_**](https://opencv.org/), [**_Makefile_**](https://en.wikipedia.org/wiki/Makefile), [**_C++ (C Plus Plus)_**](http://www.cplusplus.com/), [**_CMake_**](https://cmake.org/), [**_CUDA (Compute Unified Device Architecture)_**](https://developer.nvidia.com/cuda-zone) and [**_C_**](https://en.wikipedia.org/wiki/C_(programming_language)). The project it's a simple application to apply some **_Superheroes' Masks_** to the _Detected and Recognised Faces by Video Capture/Stream_, with support of **_Predictors_** and **_Machine Learning_**.
+A project based in **_Knowledge Base Representation_** and **_Logic Programming_**. This project was built using * [**_Prolog_**](https://en.wikipedia.org/wiki/Prolog), with the support of [**_SWISH_**](https://swish.swi-prolog.org/) and [**_SWI-Prolog_**](https://www.swi-prolog.org). The project it's a simple application to allow to make _checks_, _verifications_ and _queries_ about some _informations and data_ about [**_Faculty of Sciences and Technology of New University of Lisbon_**](https://www.fct.unl.pt/), through a _knowledge base representation_, built with _facts_, _predicates_ and _rules_, among many others!
 
 ### Examples of Possible Queries and the Respectively Results
 
