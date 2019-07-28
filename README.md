@@ -36,7 +36,7 @@
 
 ## Description
 
-A project based in **_Knowledge Base Representation_** and **_Logic Programming_**. This project was built using [**_Prolog_**](https://en.wikipedia.org/wiki/Prolog), with the support of [**_SWISH_**](https://swish.swi-prolog.org/) and [**_SWI-Prolog_**](https://www.swi-prolog.org). The project it's a simple application to allow to make _checks_, _verifications_ and _queries_ about some _informations and data_ about [**_Faculty of Sciences and Technology of New University of Lisbon_**](https://www.fct.unl.pt/), through a _knowledge base representation_, built with _facts_, _predicates_ and _rules_, among many others!
+A project based in **_Knowledge Base Representation_** and **_Logic Programming_**. This project was built using [**_Prolog_**](https://en.wikipedia.org/wiki/Prolog), with the support of [**_SWISH_**](https://swish.swi-prolog.org/) and [**_SWI-Prolog_**](https://www.swi-prolog.org). The project it's a simple application to allow to make _checks_, _verifications_ and _queries_, about some _informations and data_, of [**_Faculty of Sciences and Technology of New University of Lisbon_**](https://www.fct.unl.pt/), through a _knowledge base representation_, built with _facts_, _predicates_ and _rules_, among many others!
 
 ### Examples of Possible Queries and the Respectively Results
 
