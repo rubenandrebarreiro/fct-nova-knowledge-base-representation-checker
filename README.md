@@ -1,2 +1,2 @@
 # FCT NOVA
-## Knowledge Base Checker
+## Knowledge Base Representation Checker
